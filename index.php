@@ -9,6 +9,10 @@
         <h3 align="center">BSIT-1</h3>
       </header>
     </article>
+    <footer>
+      <p>By: Desiree P. Armojallas</p>
+      <p>July 31, 2019</p>
+    </footer>
   </main>
 </body>
 </head>
