@@ -15,5 +15,4 @@
     </footer>
   </main>
 </body>
-</head>
 </html>
